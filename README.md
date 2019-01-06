@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <css>
       #game {
-        background-color: rgb(20, 2, 200);
+        background-color: rgb(20, 2, 200)
       }
     </css>
   </head>
