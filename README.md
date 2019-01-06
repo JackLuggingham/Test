@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <style></style>
+    <css></css>
   </head>
   <body>
     <p id = "game">Hello</p>
